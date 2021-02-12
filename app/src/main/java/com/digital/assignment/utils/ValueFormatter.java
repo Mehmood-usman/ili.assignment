@@ -1,4 +1,4 @@
-package com.digital.assignment;
+package com.digital.assignment.utils;
 
 import com.github.mikephil.charting.components.AxisBase;
 import com.github.mikephil.charting.data.BarEntry;
